@@ -1,0 +1,3 @@
+[submodule "ibisami"]
+	path = ibisami
+	url = https://github.com/capn-freako/ibisami.git
